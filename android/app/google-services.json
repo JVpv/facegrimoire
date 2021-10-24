@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58096369938",
+    "project_id": "facegrimoire-2b3ba",
+    "storage_bucket": "facegrimoire-2b3ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58096369938:android:e8b7cb0c6e59e88804f3cb",
+        "android_client_info": {
+          "package_name": "com.jvprado.facegrimoire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58096369938-ujbjtis6n4nmpfr668v70vfjb58c46m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNT5ok42nVudD-rHG_LeolxtzWu64g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58096369938-ujbjtis6n4nmpfr668v70vfjb58c46m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
